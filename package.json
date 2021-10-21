@@ -1,0 +1,11 @@
+{
+  "name": "toodoo_blastoff",
+  "version": "1.0.0",
+  "description": "Seleção Blastoff",
+  "main": "index.js",
+  "author": "Anderson Bastos Bandeira",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
